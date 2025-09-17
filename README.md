@@ -1,4 +1,4 @@
-# 👨‍💻 Pablo Poletti | Data Scientist & Business Intelligence Specialist
+# 👨‍💻 Pablo Poletti | Economist, Data Scientist & Business Intelligence Specialist
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-Passionate **Data Scientist** and **Business Intelligence Professional** with extensive experience in transforming complex datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
+**Economist** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
 
 My expertise spans across **economic analysis**, **predictive modeling**, and **business intelligence**, with a strong focus on creating data-driven solutions that drive strategic decision-making in various industries.
 
@@ -28,6 +28,7 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 
 ### 💰 [Argentina Market Intelligence](https://github.com/PabloPoletti/Precios1)
 **Professional-Grade CPI Tracking System**
+- **Live Demo**: [🌐 View Dashboard](https://argentina-market-intelligence.streamlit.app/)
 - Real-time price analysis across 207+ products and 8 categories
 - Advanced volatility analysis and market intelligence
 - **Tech Stack**: Python, DuckDB, Streamlit, Advanced Analytics
