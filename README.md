@@ -1,4 +1,4 @@
-# 👨‍💻 Pablo Poletti | Economist, Data Scientist & Business Intelligence Specialist
+# 👨‍💻 Pablo Poletti | Economist (B.A.) & Data Scientist
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-**Economist** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
+**Economist (Bachelor's Degree - 5 years)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
 
 My expertise spans across **economic analysis**, **predictive modeling**, and **business intelligence**, with a strong focus on creating data-driven solutions that drive strategic decision-making in various industries.
 
@@ -86,7 +86,7 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 ## 🎓 Education & Certifications
 
 ### **Academic Background**
-- **🎓 Economics Degree** - Universidad Nacional de La Plata
+- **🎓 Bachelor's Degree in Economics (5 years)** - Universidad Nacional de La Plata
 - **📊 Specialization in Data Analysis** - Advanced Statistical Methods
 - **💼 Business Intelligence Certification** - Data-driven Decision Making
 
@@ -131,17 +131,55 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 
 ## 🏆 Featured Repositories
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Argentina Economic Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PabloPoletti&repo=argentina-economic-dashboard&theme=radical&hide_border=true)](https://github.com/PabloPoletti/argentina-economic-dashboard)
+### 📊 [Argentina Economic Dashboard](https://github.com/PabloPoletti/argentina-economic-dashboard)
+Advanced Economic Data Analysis Platform with ML forecasting
+- **🚀 [Live Demo](https://argentina-economic-dashboard.streamlit.app/)**
+- Interactive Plotly visualizations
+- Statistical analysis & correlations
+- Time series forecasting
+- **Tech**: Python, Streamlit, Plotly, Scikit-learn
 
-[![Market Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=PabloPoletti&repo=Precios1&theme=radical&hide_border=true)](https://github.com/PabloPoletti/Precios1)
+</td>
+<td width="50%">
 
-[![Life Expectancy Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=PabloPoletti&repo=esperanza-vida-2&theme=radical&hide_border=true)](https://github.com/PabloPoletti/esperanza-vida-2)
+### 💰 [Argentina Market Intelligence](https://github.com/PabloPoletti/Precios1)
+Professional-Grade CPI Tracking System
+- **🚀 [Live Demo](https://argentina-market-intelligence.streamlit.app/)**
+- 207+ products analysis
+- Advanced volatility analysis
+- Market intelligence dashboards
+- **Tech**: Python, DuckDB, Streamlit
 
-[![SeriesEcon](https://github-readme-stats.vercel.app/api/pin/?username=PabloPoletti&repo=seriesecon&theme=radical&hide_border=true)](https://github.com/PabloPoletti/seriesecon)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</div>
+### 🌍 [Life Expectancy Dashboard](https://github.com/PabloPoletti/esperanza-vida-2)
+Next-Generation Health Analytics with ML
+- **🚀 [Live Demo](https://life-expectancy-dashboard.streamlit.app/)**
+- XGBoost & Neural Prophet models
+- SHAP interpretability
+- Global health analytics
+- **Tech**: Python, XGBoost, CatBoost
+
+</td>
+<td width="50%">
+
+### 📈 [SeriesEcon Original](https://github.com/PabloPoletti/seriesecon)
+Original Economic Dashboard Version
+- Foundation for economic analysis
+- Time series processing
+- Economic indicators visualization
+- **Tech**: Python, Pandas, Matplotlib
+
+</td>
+</tr>
+</table>
 
 ---
 
