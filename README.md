@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-**Economist (Bachelor's Degree - 5 years)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
+**Economist (Bachelor's Degree)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
 
 My expertise spans across **economic analysis**, **predictive modeling**, and **business intelligence**, with a strong focus on creating data-driven solutions that drive strategic decision-making in various industries.
 
