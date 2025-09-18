@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-**Economist (Bachelor's Degree - 5 years)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
+**Economist (Bachelor's Degree)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
 
 My expertise spans across **economic analysis**, **predictive modeling**, and **business intelligence**, with a strong focus on creating data-driven solutions that drive strategic decision-making in various industries.
 
@@ -135,6 +135,17 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 <tr>
 <td width="50%">
 
+### 📈 [Stock Analysis Dashboard 2025](https://github.com/PabloPoletti/Stock-Dashboard-2025)
+Professional Financial Analytics Platform with AI
+- **🚀 [Live Demo](#)** *(Deployment in progress)*
+- AI-powered price predictions
+- Interactive Plotly visualizations
+- Real-time market data & technical analysis
+- **Tech**: Python, Streamlit, XGBoost, LightGBM
+
+</td>
+<td width="50%">
+
 ### 📊 [Argentina Economic Dashboard](https://github.com/PabloPoletti/argentina-economic-dashboard)
 Advanced Economic Data Analysis Platform with ML forecasting
 - **🚀 [Live Demo](https://argentina-economic-dashboard.streamlit.app/)**
@@ -144,6 +155,8 @@ Advanced Economic Data Analysis Platform with ML forecasting
 - **Tech**: Python, Streamlit, Plotly, Scikit-learn
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💰 [Argentina Market Intelligence](https://github.com/PabloPoletti/Precios1)
@@ -155,8 +168,6 @@ Professional-Grade CPI Tracking System
 - **Tech**: Python, DuckDB, Streamlit
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🌍 [Life Expectancy Dashboard](https://github.com/PabloPoletti/esperanza-vida-2)
@@ -166,16 +177,6 @@ Next-Generation Health Analytics with ML
 - SHAP interpretability
 - Global health analytics
 - **Tech**: Python, XGBoost, CatBoost
-
-</td>
-<td width="50%">
-
-### 📈 [SeriesEcon Original](https://github.com/PabloPoletti/seriesecon)
-Original Economic Dashboard Version
-- Foundation for economic analysis
-- Time series processing
-- Economic indicators visualization
-- **Tech**: Python, Pandas, Matplotlib
 
 </td>
 </tr>
