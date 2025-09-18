@@ -10,118 +10,164 @@
 
 ## 🌟 About Me
 
-**Economist (Bachelor's Degree)** and **Data Scientist** with extensive experience in transforming complex economic datasets into actionable business insights. I specialize in developing end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
+**Economist (Bachelor's Degree)** and **Data Scientist** specializing in transforming complex economic datasets into actionable business insights. I develop end-to-end analytical solutions, from data extraction and preprocessing to advanced modeling and interactive visualization dashboards.
 
-My expertise spans across **economic analysis**, **predictive modeling**, and **business intelligence**, with a strong focus on creating data-driven solutions that drive strategic decision-making in various industries.
+**Core Expertise:** Economic Analysis • Predictive Modeling • Business Intelligence • Machine Learning • Data Visualization
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Dashboard Portfolio
 
-<div align="center">
+> All dashboards are **fully functional** with **real-time data** and deployed on **Streamlit Cloud**
 
-### 📊 [Argentina Economic Dashboard](https://github.com/PabloPoletti/argentina-economic-dashboard)
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📈 **Stock Analysis Dashboard 2025**
+[![Stock Dashboard](https://img.shields.io/badge/🚀_Live_Demo-Stock_Dashboard-FF6B6B?style=for-the-badge)](https://stock-dashboard-2025.streamlit.app/)
+
+**AI-Powered Financial Analytics Platform**
+
+🤖 **ML Ensemble Predictions** (XGBoost + LightGBM + Random Forest)  
+📊 **Real-time Technical Analysis** (RSI, MACD, Bollinger Bands)  
+🔍 **Advanced Stock Screener** (Multi-criteria filtering)  
+📈 **Interactive Plotly Charts** (Candlestick + Volume Analysis)  
+
+**Stack:** `Python` `Streamlit` `XGBoost` `LightGBM` `Plotly` `yFinance`
+
+[📂 Repository](https://github.com/PabloPoletti/Stock-Dashboard-2025)
+
+</td>
+<td width="50%" align="center">
+
+### 📊 **Argentina Economic Dashboard**
+[![Economic Dashboard](https://img.shields.io/badge/🚀_Live_Demo-Economic_Dashboard-4ECDC4?style=for-the-badge)](https://argentina-economic-dashboard.streamlit.app/)
+
 **Advanced Economic Data Analysis Platform**
-- **Live Demo**: [🌐 View Dashboard](https://argentina-economic-dashboard.streamlit.app/)
-- Interactive analysis of Argentina's economic indicators with ML forecasting
-- **Tech Stack**: Python, Streamlit, Plotly, Scikit-learn, Statsmodels
 
-### 💰 [Argentina Market Intelligence](https://github.com/PabloPoletti/Precios1)
-**Professional-Grade CPI Tracking System**
-- **Live Demo**: [🌐 View Dashboard](https://argentina-market-intelligence.streamlit.app/)
-- Real-time price analysis across 207+ products and 8 categories
-- Advanced volatility analysis and market intelligence
-- **Tech Stack**: Python, DuckDB, Streamlit, Advanced Analytics
+📈 **ML Forecasting** (ARIMA, Prophet, Regression Models)  
+🔄 **Real/Nominal Conversions** (Inflation-adjusted analysis)  
+📊 **Interactive Correlations** (Economic indicator relationships)  
+⏱️ **Time Series Decomposition** (Trend, seasonal, residual)  
 
-### 🌍 [Life Expectancy Dashboard](https://github.com/PabloPoletti/esperanza-vida-2)
+**Stack:** `Python` `Streamlit` `Plotly` `Scikit-learn` `Statsmodels`
+
+[📂 Repository](https://github.com/PabloPoletti/argentina-economic-dashboard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### 💰 **Argentina Market Intelligence**
+[![Market Intelligence](https://img.shields.io/badge/🚀_Live_Demo-Market_Intelligence-45B7D1?style=for-the-badge)](https://argentina-market-intelligence.streamlit.app/)
+
+**Professional CPI Tracking System**
+
+📊 **207+ Products Analysis** (8 categories monitoring)  
+📈 **Advanced Volatility Analysis** (Price trend detection)  
+🎯 **Market Intelligence Dashboards** (Executive reporting)  
+⚡ **High-Performance Processing** (DuckDB optimization)  
+
+**Stack:** `Python` `DuckDB` `Streamlit` `Advanced Analytics`
+
+[📂 Repository](https://github.com/PabloPoletti/Precios1)
+
+</td>
+<td width="50%" align="center">
+
+### 🌍 **Life Expectancy Analytics**
+[![Health Dashboard](https://img.shields.io/badge/🚀_Live_Demo-Health_Analytics-26de81?style=for-the-badge)](https://life-expectancy-dashboard.streamlit.app/)
+
 **Next-Generation Health Analytics**
-- **Live Demo**: [🌐 View Dashboard](https://life-expectancy-dashboard.streamlit.app/)
-- ML-powered life expectancy prediction with XGBoost and Neural Prophet
-- **Tech Stack**: Python, XGBoost, CatBoost, Neural Prophet, SHAP
 
-</div>
+🤖 **ML Predictions** (XGBoost, CatBoost, Neural Prophet)  
+🔍 **SHAP Interpretability** (Model explainability)  
+🌍 **Global Health Analytics** (Cross-country analysis)  
+📊 **Interactive Visualizations** (Health trend mapping)  
+
+**Stack:** `Python` `XGBoost` `CatBoost` `Neural Prophet` `SHAP`
+
+[📂 Repository](https://github.com/PabloPoletti/esperanza-vida-2)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<div align="center">
 
 ### **Data Science & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-00AEFF?style=for-the-badge&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### **Data Visualization**
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### **Visualization & Dashboards**
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### **Databases & Big Data**
+### **Databases & Analytics**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### **Cloud & DevOps**
+### **Development & Deployment**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Business Intelligence Tools**
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
----
-
-## 🎓 Education & Certifications
-
-### **Academic Background**
-- **🎓 Bachelor's Degree in Economics (5 years)** - Universidad Nacional de La Plata
-- **📊 Specialization in Data Analysis** - Advanced Statistical Methods
-- **💼 Business Intelligence Certification** - Data-driven Decision Making
-
-### **Professional Development**
-- **🤖 Machine Learning Specialization** - Advanced Predictive Modeling
-- **📈 Financial Analysis** - Economic Forecasting and Risk Assessment
-- **🛠️ Data Engineering** - ETL Processes and Data Pipeline Design
-- **📊 Advanced Analytics** - Statistical Modeling and Hypothesis Testing
-
----
-
-## 💼 Core Competencies
-
-<div align="center">
-
-| **Domain** | **Skills** |
-|------------|------------|
-| **📊 Data Analysis** | Statistical Analysis, Hypothesis Testing, A/B Testing, Experimental Design |
-| **🤖 Machine Learning** | Supervised/Unsupervised Learning, Time Series Forecasting, Feature Engineering |
-| **📈 Business Intelligence** | Dashboard Development, KPI Design, Performance Metrics, Strategic Analytics |
-| **💰 Financial Analysis** | Economic Modeling, Risk Assessment, Market Analysis, Investment Analytics |
-| **🛠️ Data Engineering** | ETL Processes, Data Pipeline Design, Database Optimization, API Integration |
-| **📊 Visualization** | Interactive Dashboards, Business Reporting, Data Storytelling |
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 Professional Skills
 
 <div align="center">
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloPoletti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+| **🎯 Domain** | **🛠️ Core Skills** | **📊 Applications** |
+|---------------|------------------|-------------------|
+| **📊 Economic Analysis** | Statistical Modeling, Econometrics, Time Series | Inflation Analysis, GDP Forecasting, Market Research |
+| **🤖 Machine Learning** | Ensemble Methods, Feature Engineering, Model Selection | Price Prediction, Risk Assessment, Pattern Recognition |
+| **📈 Business Intelligence** | Dashboard Development, KPI Design, Executive Reporting | Performance Analytics, Strategic Insights, Data Storytelling |
+| **💰 Financial Analytics** | Investment Analysis, Risk Modeling, Portfolio Optimization | Market Intelligence, Volatility Analysis, Asset Valuation |
+| **🛠️ Data Engineering** | ETL Pipelines, API Integration, Database Optimization | Real-time Processing, Data Quality, Performance Tuning |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPoletti&layout=compact&theme=radical&hide_border=true)
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+### **🎓 Academic Foundation**
+- **Bachelor's Degree in Economics (5 years)** - Universidad Nacional de La Plata
+- **Specialization in Data Analysis** - Advanced Statistical Methods  
+- **Business Intelligence Certification** - Data-driven Decision Making
+
+### **🚀 Professional Development**
+- **Machine Learning Specialization** - Advanced Predictive Modeling
+- **Financial Analysis Certification** - Economic Forecasting & Risk Assessment  
+- **Data Engineering** - ETL Processes & Pipeline Design
+- **Advanced Analytics** - Statistical Modeling & Hypothesis Testing
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloPoletti&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloPoletti&layout=compact&theme=radical&hide_border=true"/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PabloPoletti&theme=radical&hide_border=true)
 
@@ -129,58 +175,17 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 
 ---
 
-## 🏆 Featured Repositories
+## 💼 Current Focus
 
-<table>
-<tr>
-<td width="50%">
+🔭 **Working On:** Advanced ML ensemble models for financial market prediction and economic forecasting
 
-### 📈 [Stock Analysis Dashboard 2025](https://github.com/PabloPoletti/Stock-Dashboard-2025)
-Professional Financial Analytics Platform with AI
-- **🚀 [Live Demo](https://stock-dashboard-2025.streamlit.app/)**
-- AI-powered price predictions
-- Interactive Plotly visualizations
-- Real-time market data & technical analysis
-- **Tech**: Python, Streamlit, XGBoost, LightGBM
+🌱 **Learning:** Deep Learning applications in quantitative finance and real-time market analytics
 
-</td>
-<td width="50%">
+👯 **Open to Collaborate:** Data science projects, economic analysis, business intelligence solutions
 
-### 📊 [Argentina Economic Dashboard](https://github.com/PabloPoletti/argentina-economic-dashboard)
-Advanced Economic Data Analysis Platform with ML forecasting
-- **🚀 [Live Demo](https://argentina-economic-dashboard.streamlit.app/)**
-- Interactive Plotly visualizations
-- Statistical analysis & correlations
-- Time series forecasting
-- **Tech**: Python, Streamlit, Plotly, Scikit-learn
+💬 **Ask Me About:** Machine Learning, Economic Modeling, Business Intelligence, Python, Financial Analytics
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 [Argentina Market Intelligence](https://github.com/PabloPoletti/Precios1)
-Professional-Grade CPI Tracking System
-- **🚀 [Live Demo](https://argentina-market-intelligence.streamlit.app/)**
-- 207+ products analysis
-- Advanced volatility analysis
-- Market intelligence dashboards
-- **Tech**: Python, DuckDB, Streamlit
-
-</td>
-<td width="50%">
-
-### 🌍 [Life Expectancy Dashboard](https://github.com/PabloPoletti/esperanza-vida-2)
-Next-Generation Health Analytics with ML
-- **🚀 [Live Demo](https://life-expectancy-dashboard.streamlit.app/)**
-- XGBoost & Neural Prophet models
-- SHAP interpretability
-- Global health analytics
-- **Tech**: Python, XGBoost, CatBoost
-
-</td>
-</tr>
-</table>
+⚡ **Passion:** Transforming complex economic data into beautiful, actionable insights that drive strategic decisions
 
 ---
 
@@ -192,29 +197,9 @@ Next-Generation Health Analytics with ML
 [![Email](https://img.shields.io/badge/Email-lic.poletti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lic.poletti@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PabloPoletti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PabloPoletti)
 
-</div>
-
----
-
-## 💡 Current Focus
-
-🔭 **Currently working on:** Advanced ML models for economic forecasting and business intelligence solutions
-
-🌱 **Learning:** Deep Learning applications in financial markets and advanced time series analysis
-
-👯 **Looking to collaborate on:** Data science projects, economic analysis, and business intelligence solutions
-
-💬 **Ask me about:** Data Analysis, Machine Learning, Business Intelligence, Economic Modeling, Python, R, and Statistical Analysis
-
-⚡ **Fun fact:** I love transforming complex economic data into beautiful, actionable insights that drive business decisions!
-
----
-
-<div align="center">
-
 ### 🎯 "Turning Data into Decisions, Insights into Impact"
 
-**Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations.**
+**Thanks for visiting! Explore my live dashboards and feel free to reach out for collaborations.**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
