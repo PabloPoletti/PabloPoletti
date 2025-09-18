@@ -137,7 +137,7 @@ My expertise spans across **economic analysis**, **predictive modeling**, and **
 
 ### 📈 [Stock Analysis Dashboard 2025](https://github.com/PabloPoletti/Stock-Dashboard-2025)
 Professional Financial Analytics Platform with AI
-- **🚀 [Live Demo](#)** *(Deployment in progress)*
+- **🚀 [Live Demo](https://stock-dashboard-2025.streamlit.app/)**
 - AI-powered price predictions
 - Interactive Plotly visualizations
 - Real-time market data & technical analysis
