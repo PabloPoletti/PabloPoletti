@@ -99,6 +99,8 @@
 
 > **Professional analysis implementations of the TOP 6 Time Series Forecasting Libraries**
 
+⚠️ **Important:** Each project requires its specific library to function properly. Projects will exit with clear installation instructions if dependencies are missing.
+
 <table>
 <tr>
 <td width="33%" align="center">
