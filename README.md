@@ -95,6 +95,119 @@
 </tr>
 </table>
 
+### **🔬 Advanced Time Series Forecasting Suite (2025)**
+
+> **Professional analysis implementations of the TOP 6 Time Series Forecasting Libraries**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🚀 **TimeGPT Advanced Forecasting**
+[![TimeGPT](https://img.shields.io/badge/📊_Analysis-TimeGPT-green?style=for-the-badge)](https://github.com/PabloPoletti/TimeGPT-Advanced-Forecasting)
+
+**Nixtla Ecosystem Analysis**
+
+⭐ **12k+ GitHub Stars Reference**  
+🤖 **TimeGPT Foundation Model**  
+📊 **StatsForecast + NeuralForecast**  
+🎭 **Ensemble Methods & Optimization**  
+
+**Analysis:** `Complete ML Pipeline` `15+ Models` `Hyperparameter Tuning` `Interactive Reports`
+
+[📂 Repository](https://github.com/PabloPoletti/TimeGPT-Advanced-Forecasting)
+
+</td>
+<td width="33%" align="center">
+
+#### 🎯 **DARTS Unified Forecasting**
+[![DARTS](https://img.shields.io/badge/📊_Analysis-DARTS-purple?style=for-the-badge)](https://github.com/PabloPoletti/DARTS-Unified-Forecasting)
+
+**Unified Interface Analysis**
+
+⭐ **8k+ GitHub Stars Reference**  
+🔄 **Consistent fit() predict() API**  
+📊 **Statistical + ML + Deep Learning**  
+🎭 **Model Comparison & Benchmarking**  
+
+**Analysis:** `20+ Models` `Multi-Dataset` `Cross-Validation` `Ensemble Methods`
+
+[📂 Repository](https://github.com/PabloPoletti/DARTS-Unified-Forecasting)
+
+</td>
+<td width="33%" align="center">
+
+#### 📈 **Prophet Business Forecasting**
+[![Prophet](https://img.shields.io/badge/📊_Analysis-Prophet-blue?style=for-the-badge)](https://github.com/PabloPoletti/Prophet-Business-Forecasting)
+
+**Meta's Business Analysis**
+
+⭐ **18.4k+ GitHub Stars Reference**  
+🎄 **Holiday Effects & Seasonality**  
+💼 **Business-Focused Analysis**  
+📊 **External Regressors**  
+
+**Analysis:** `Business Datasets` `Holiday Impact` `Cross-Validation` `NeuralProphet`
+
+[📂 Repository](https://github.com/PabloPoletti/Prophet-Business-Forecasting)
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+#### 🔬 **SKTime ML Forecasting**
+[![SKTime](https://img.shields.io/badge/📊_Analysis-SKTime-orange?style=for-the-badge)](https://github.com/PabloPoletti/SKTime-ML-Forecasting)
+
+**Scikit-learn Compatible Analysis**
+
+⭐ **7.8k+ GitHub Stars Reference**  
+🤖 **ML Pipeline Integration**  
+🔧 **Time Series Transformers**  
+✅ **Cross-Validation & Feature Engineering**  
+
+**Analysis:** `12+ ML Models` `Feature Engineering` `Time Series CV` `Ensemble Methods`
+
+[📂 Repository](https://github.com/PabloPoletti/SKTime-ML-Forecasting)
+
+</td>
+<td width="33%" align="center">
+
+#### 🎲 **GluonTS Probabilistic Forecasting**
+[![GluonTS](https://img.shields.io/badge/📊_Analysis-GluonTS-teal?style=for-the-badge)](https://github.com/PabloPoletti/GluonTS-Probabilistic-Forecasting)
+
+**Amazon's Probabilistic Analysis**
+
+⭐ **4.6k+ GitHub Stars Reference**  
+🎲 **Uncertainty Quantification**  
+📊 **Confidence Intervals & Risk Analysis**  
+☁️ **Deep Learning Models**  
+
+**Analysis:** `Probabilistic Models` `VaR Analysis` `Coverage Testing` `Risk Assessment`
+
+[📂 Repository](https://github.com/PabloPoletti/GluonTS-Probabilistic-Forecasting)
+
+</td>
+<td width="33%" align="center">
+
+#### ⚡ **PyTorch TFT Forecasting**
+[![PyTorch](https://img.shields.io/badge/📊_Analysis-PyTorch_TFT-red?style=for-the-badge)](https://github.com/PabloPoletti/PyTorch-TFT-Forecasting)
+
+**Temporal Fusion Transformers Analysis**
+
+⭐ **4.6k+ GitHub Stars Reference**  
+🔥 **Attention Mechanisms & Interpretability**  
+🧠 **Multi-Horizon Deep Learning**  
+⚡ **PyTorch Lightning Integration**  
+
+**Analysis:** `TFT Models` `Attention Visualization` `Multi-Variate` `Quantile Forecasting`
+
+[📂 Repository](https://github.com/PabloPoletti/PyTorch-TFT-Forecasting)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🛠️ Technology Stack
